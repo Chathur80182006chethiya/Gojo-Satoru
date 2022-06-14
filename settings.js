@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['(815) 242-5141']
-global.premium = ['(815) 242-5141']
-global.ownernomer = '(815) 242-5141'
+global.owner = ['18152425141']
+global.premium = ['18152425141']
+global.ownernomer = '18152425141'
 global.ownername = '</♯Cyber Hunter☠°°'
 global.botname = '</♯Cyber Hunter☠°°'
 global.footer = '©The🏴‍☠️Cyberʀြ٭Huters⎎᭄⚖🏴‍☠️.'
